@@ -5,7 +5,10 @@ class Coor {
 var $name;
 
 // методы:
-
+function Setname($name) {
+    $this->name = $name;
+    $this->Getname();
+}
 
 }
 
