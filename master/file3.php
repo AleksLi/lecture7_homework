@@ -8,13 +8,7 @@ class Coor {
     var $name;
 
 // методы:
-    function Getname() {
-        echo $this->name;
-    }
 
-    function Setname($name) {
-        $this->name = $name;
-    }
 
 }
 
