@@ -5,9 +5,7 @@ class Coor {
 var $name;
 
 // методы:
-function Getname() {
-echo "<h3>John</h3>";
-}
+
 
 }
 
