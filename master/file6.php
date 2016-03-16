@@ -13,7 +13,4 @@ class Coor {
 
 }
 
-// Создаем объект класса Coor:
-$object = new Coor;
-// Для инициализации объекта сразу вызываем метод:
-$object->Init();
+echo "My man";
