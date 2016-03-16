@@ -8,7 +8,7 @@
 
 class Par {
     function parent_funct() { echo "<h1>Это родительская функция</h1>"; }
-    function test () { echo "<h1>Это родительский класс</h1>"; }
+
 }
 
 class Child extends Parent {
